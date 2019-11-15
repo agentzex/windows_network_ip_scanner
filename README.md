@@ -1,2 +1,7 @@
 # windows_network_ip_scanner
-Discover IPs of active devices in your LAN
+I couldn't find any decent solution for a lightweight LAN network discovery tool running from a Windows machine, so I decided to create one.\
+This tool can discover your network devices automaticlly based on info gathered from all of the installed network cards on your Windows machine, then it uses them to send ARP requests and discover which IPs are responding.\
+It also prints the machine name if # windows_network_ip_scanner
+I couldn't find any decent solution for a lightweight LAN network discovery tool running from a Windows machine, so I decided to create one.\
+This tool can discover your network devices automatically  based on info gathered from all of the installed network cards on your Windows machine, then it uses them to send ARP requests and discover which IPs are responding.\
+It also prints the machine name if avilable
